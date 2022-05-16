@@ -1,0 +1,5 @@
+
+requests==2.27.1
+six==1.16.0
+textblob==0.17.1
+tweepy==4.6.0
