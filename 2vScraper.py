@@ -22,6 +22,7 @@ client = tweepy.Client( bearer_token=bearer_token,
 
 
 print("Twitter search results:")
+print("This will search the past 7 days of Tweets")
 # Replace with time period of your choice
 start_time = '2022-04-14T00:00:00Z'
 # Replace with time period of your choice
