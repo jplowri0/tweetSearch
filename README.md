@@ -1,3 +1,8 @@
+# tweetSearch
+## Important Note!
+This will no longer work now. Twitter is different now
+
+## About
 This will present preconfigured search terms in Twitter If there are tweets for that search. 
 
 You can then allow for many, many twitter search real fast. 
